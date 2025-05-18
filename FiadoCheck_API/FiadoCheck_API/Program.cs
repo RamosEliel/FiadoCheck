@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using FiadoCheck_API.Context;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,8 +13,10 @@ builder.Services.AddSwaggerGen();
 
 
 builder.Services.AddDbContext<FiadoCheckDbContext>(options =>
-    options.UseMySQL(builder.Configuration.GetConnectionString("Default")!));
-
+    options.UseMySql(
+        builder.Configuration.GetConnectionString("Default"),
+        new MySqlServerVersion(new Version(8, 0, 36)) // Usa la versión de tu servidor MySQL
+    ));
 
 var app = builder.Build();
 
