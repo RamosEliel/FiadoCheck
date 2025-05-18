@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|c:\\users\\eliel\\onedrive\\documentos\\s\u00E9ptimo-semestre\\gesti\u00F3n de proyectos de ingenier\u00EDa del software\\fiadocheck_api\\fiadocheck_api\\fiadocheck_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|solutionrelative:fiadocheck_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|c:\\users\\eliel\\onedrive\\documentos\\s\u00E9ptimo-semestre\\gesti\u00F3n de proyectos de ingenier\u00EDa del software\\fiadocheck_api\\fiadocheck_api\\fiadocheck_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|solutionrelative:fiadocheck_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|c:\\users\\eliel\\onedrive\\documentos\\s\u00E9ptimo-semestre\\gesti\u00F3n de proyectos de ingenier\u00EDa del software\\fiadocheck_api\\fiadocheck_api\\fiadocheck_api\\models\\notificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|solutionrelative:fiadocheck_api\\models\\notificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|c:\\users\\eliel\\onedrive\\documentos\\s\u00E9ptimo-semestre\\gesti\u00F3n de proyectos de ingenier\u00EDa del software\\fiadocheck_api\\fiadocheck_api\\fiadocheck_api\\context\\fiadocheckdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|solutionrelative:fiadocheck_api\\context\\fiadocheckdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|c:\\users\\eliel\\onedrive\\documentos\\s\u00E9ptimo-semestre\\gesti\u00F3n de proyectos de ingenier\u00EDa del software\\fiadocheck_api\\fiadocheck_api\\fiadocheck_api\\controllers\\notificacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|solutionrelative:fiadocheck_api\\controllers\\notificacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|c:\\users\\eliel\\onedrive\\documentos\\s\u00E9ptimo-semestre\\gesti\u00F3n de proyectos de ingenier\u00EDa del software\\fiadocheck_api\\fiadocheck_api\\fiadocheck_api\\fiadocheck_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{046D3CBD-3F4C-440C-A841-2ED9D581E307}|FiadoCheck_API\\FiadoCheck_API.csproj|solutionrelative:fiadocheck_api\\fiadocheck_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\Controllers\\NotificacionesController.cs",
+              "RelativeDocumentMoniker": "FiadoCheck_API\\Controllers\\NotificacionesController.cs",
+              "ToolTip": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\Controllers\\NotificacionesController.cs",
+              "RelativeToolTip": "FiadoCheck_API\\Controllers\\NotificacionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:42:50.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "notificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\Models\\notificaciones.cs",
+              "RelativeDocumentMoniker": "FiadoCheck_API\\Models\\notificaciones.cs",
+              "ToolTip": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\Models\\notificaciones.cs",
+              "RelativeToolTip": "FiadoCheck_API\\Models\\notificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:42:19.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FiadoCheckDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\Context\\FiadoCheckDbContext.cs",
+              "RelativeDocumentMoniker": "FiadoCheck_API\\Context\\FiadoCheckDbContext.cs",
+              "ToolTip": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\Context\\FiadoCheckDbContext.cs",
+              "RelativeToolTip": "FiadoCheck_API\\Context\\FiadoCheckDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:43:42.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\appsettings.json",
+              "RelativeDocumentMoniker": "FiadoCheck_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\appsettings.json",
+              "RelativeToolTip": "FiadoCheck_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T20:50:23.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\Program.cs",
+              "RelativeDocumentMoniker": "FiadoCheck_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\Program.cs",
+              "RelativeToolTip": "FiadoCheck_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:47:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FiadoCheck_API.csproj",
+              "DocumentMoniker": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API.csproj",
+              "RelativeDocumentMoniker": "FiadoCheck_API\\FiadoCheck_API.csproj",
+              "ToolTip": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API.csproj",
+              "RelativeToolTip": "FiadoCheck_API\\FiadoCheck_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T20:30:33.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

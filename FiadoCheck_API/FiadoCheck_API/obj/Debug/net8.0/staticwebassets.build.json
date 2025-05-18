@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3zX1QlB6PjPDfqXLO6PxtY/hTQ2F2FHdNbL9b22kxOc=",
+  "Source": "FiadoCheck_API",
+  "BasePath": "_content/FiadoCheck_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
