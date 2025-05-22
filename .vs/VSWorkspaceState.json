@@ -3,7 +3,8 @@
     "",
     "\\FiadoCheck_API",
     "\\FiadoCheck_API\\FiadoCheck_API",
-    "\\FiadoCheck_API\\FiadoCheck_API\\Models"
+    "\\FiadoCheck_API\\FiadoCheck_API\\Models",
+    "\\FiadoCheck_API\\FiadoCheck_API\\Properties"
   ],
   "SelectedNode": "\\FiadoCheck_API\\FiadoCheck_API.sln",
   "PreviewInSolutionExplorer": false

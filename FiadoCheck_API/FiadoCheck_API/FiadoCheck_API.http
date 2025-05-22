@@ -1,4 +1,4 @@
-@FiadoCheck_API_HostAddress = http://localhost:5014
+@FiadoCheck_API_HostAddress = http://localhost:5000
 
 GET {{FiadoCheck_API_HostAddress}}/fiadocheckapi/
 Accept: application/json
