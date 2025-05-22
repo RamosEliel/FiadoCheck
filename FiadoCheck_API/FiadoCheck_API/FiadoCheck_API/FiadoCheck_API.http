@@ -1,0 +1,7 @@
+@FiadoCheck_API_HostAddress = http://localhost:5014
+
+GET {{FiadoCheck_API_HostAddress}}/fiadocheckapi/
+Accept: application/json
+
+### DJANGO
+

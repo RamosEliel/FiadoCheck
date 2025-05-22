@@ -13,7 +13,7 @@ namespace SysPoolApi.Controllers
         public clientesController(FiadoCheckDbContext context)
         {
             this.context = context;
-        }
+        } 
 
         [HttpGet]
         public IEnumerable<clientes> Get()
