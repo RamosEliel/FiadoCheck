@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "FiadoCheck_API\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Eliel\\OneDrive\\Documentos\\S\u00C9PTIMO-SEMESTRE\\GESTI\u00D3N DE PROYECTOS DE INGENIER\u00CDA DEL SOFTWARE\\FiadoCheck_API\\FiadoCheck_API\\FiadoCheck_API\\Properties\\launchSettings.json",
               "RelativeToolTip": "FiadoCheck_API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-22T03:24:44.274Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "FiadoCheck_API\\Controllers\\ClientesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T01:25:43.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T01:25:43.02Z"
             },
             {
               "$type": "Document",

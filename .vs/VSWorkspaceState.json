@@ -2,10 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\FiadoCheck_API",
-    "\\FiadoCheck_API\\FiadoCheck_API",
-    "\\FiadoCheck_API\\FiadoCheck_API\\Models",
-    "\\FiadoCheck_API\\FiadoCheck_API\\Properties"
+    "\\FiadoCheck_API\\FiadoCheck_API"
   ],
-  "SelectedNode": "\\FiadoCheck_API\\FiadoCheck_API.sln",
   "PreviewInSolutionExplorer": false
 }
